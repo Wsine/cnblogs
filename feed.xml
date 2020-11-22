@@ -1,0 +1,1257 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>Wsine's Blog</title>
+  <atom:link href="https://wsine.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://wsine.github.io/blog</link>
+  <description>To be simple, to be powerful.</description>
+   
+  <item>
+    <title><![CDATA[Wsine's Blog]]></title>
+    <link>https://wsine.github.io/blog/#/README</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/README</guid>
+    <description><![CDATA[<h1 id="wsines-blog">Wsine's Blog</h1>
+<p><a href="https://travis-ci.com/Wsine/cnblogs"><img src="https://travis-ci.com/Wsine/cnblogs.svg?branch=master" alt="Build Status" /></a> <a href="/cnblogs/feed.xml" title=":ignore"><img src="https://img.shields.io/badge/RSS-Atom-orange" alt="RSS_icon" /></a></p>
+<p>强烈建议安装Consolas字体，大大提高博客的浏览效果，相信你也会喜欢这款字体</p>
+<p>博客内容大多为我一路以来的学习历程的记录，主要都是写一些相关内容的实现，需要一定的理论知识支撑，博客不会详细讲解为什么</p>
+<p>内容均为原创，其中有参考一些身边或网上大神的做法 一般都有写明出处，如果遗漏的地方，请在评论中指出</p>
+<p>由于自己学得不精，如有错漏的地方，请加以自己思考消化，不要盲目照搬，也可以在评论中指出错漏</p>
+<p>最后，如果给您带来了什么不便可以后台发短消息或者发邮件给我，我可以把相关博客隐藏可见</p>
+<p>希望引用的博友可以注明出处，互相学习，谢谢</p>]]></description>
+    <pubDate>Sun, 22 Nov 2020 18:07:13 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[找实习经验]]></title>
+    <link>https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e6%89%be%e5%ae%9e%e4%b9%a0%e7%bb%8f%e9%aa%8c</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e6%89%be%e5%ae%9e%e4%b9%a0%e7%bb%8f%e9%aa%8c</guid>
+    <description><![CDATA[<h1 id="找实习经验">找实习经验</h1>
+<blockquote>
+<p>单纯地说面试经验没有什么效果，为了让它像一篇好的博客，我还是从流程的开始写起吧。博文的内容我就挑重点来讲了（其实内容我都忘记地差不多了</p>
+</blockquote>
+<ul>
+<li>简历准备</li>
+<li>简历投递</li>
+<li>性格测试</li>
+<li>在线笔试</li>
+<li>招聘面试</li>
+<li>正式Offer</li>
+</ul>
+<h2 id="简历准备">简历准备</h2>
+<p><strong>简洁的排版</strong></p>
+<p>首先我个人是很推崇使用Latex制作的简历的，有以下几点优点： 1. 绝对的排版 2. 复制的文本不会出错 3. 文本可链接点击 4. 突显优秀的程序员特点</p>
+<p>第一点，排版对齐是很重要的，排版不对齐尤其难受，而且眼尖的HR特别容易发现，面试官倒不会太在意。排版的间距我推荐使用稍微大一点点，参考一下现代网页html5的风格都是排版间距比旧式网页要更大一些。还有注意要留页边距，不要为了拼命地填充一页简历而不断缩小页边距。</p>
+<p>第二点，文本复制，在Word生成的pdf中复制文本，然后粘贴，往往实际粘贴出来的效果不是你所想要的，不是多了就是少了。但是，使用Latex制作的简历倒不会出现这样的问题。HR有需要对筛选出来的简历整理统计为一份文件，才不会到处将这些简历一股脑地发给上级，如果可以复制谁愿意手敲，万一复制体验不好心情又不爽呢？</p>
+<p>第三点，文本可链接点击，如果简历上面有什么博客或个人主页的话，相比于只写链接地址，把文本也做成可点击的链接也是加分项。Word生成的pdf链接默认会变成蓝色下划线，尽管能改，但Latex原生的就不会。</p>
+<p>第四点，Latex也是有自己的语法的，多掌握一门语言并且成功在面试官面前秀一下，效果也是蛮好的。</p>
+<p><strong>重点的内容</strong></p>
+<p>一般来说，实习应该都是新人，不会有太多的内容，简历以一页来说为好，两页也是可以的，不必墨守成规。我个人认为，有什么大赛获奖经历，论文经历尽管堆上去到两页真的没所谓，但是最多到两页就好了。</p>
+<p>关于个人信息，必要点都是必填的无论好坏，非必要点记住只填对自己有利的信息点就好了。必要点指：姓名，学校，专业，学历，电话，邮箱。非必要点指：绩点，是否应届，英语水平，性别，博客地址，个人主页等。是否有利根据行业岗位自行判断。这里说一下邮箱，互联网是有行业鄙视链的，QQ邮箱那一串数字真不适合（投腾讯除外），尽管腾讯的邮箱服务做得也很好，好一点的做法是取一个邮箱名字并且使用foxmail域名，其实还是同一个邮箱。没必要非要使用相应公司的邮箱，海投的话每天去查真的会累死，错过了就尴尬了。</p>
+<p>上面也说到间隔增大，那么内容区就会变小，相应地内容区的内容就需要好好选择。不同的岗位投递不一样的简历才是王道。项目经历只填和岗位相关的就好，不然会给面试官一种广度足够，深度不足的错觉。这里我又要夸一下Latex了，不想要它显示的经历直接注释就可以了，真心方便。而且经历也要做一个排序，和岗位相关度最高的排最前。项目经历的描述用一两句很官方的语气描述，就是那种听不懂但觉得高大上的话，然后写自己负责的部分，使用了哪些技术和框架。</p>
+<p>这里打一个广告：<a href="https://www.overleaf.com/gallery/tagged/cv">Overleaf在线Latex模板</a></p>
+<h2 id="简历投递">简历投递</h2>
+<p>相比只投一家，还是多上一点保险比较好，喜欢合适就投一下，反正也不需要成本。至于后面是否继续参加笔试面试就可以到时候再决定了，至少不会后悔。</p>
+<p>关于内推，我觉得有资源有人脉尽量都优先内推通道，因为会比正常流程快，而且相当于多一次机会。尽管我觉得内推在国内已经变质了，推荐人就想赚钱并不在于被推荐人是谁，被推荐人也得千方百计找关系。但是，国内环境毕竟如此，逆来顺受。</p>
+<p>后续还是要注意通知的下发，有时候会有小概率发生通知漏发的情况，这时候就要主动联系HR了，及时补救，有一个一同投递简历的小伙伴是互相通知的好处。对于自己已经投递的公司，也要维护一个列表来记录，避免忘记。</p>
+<h2 id="性格测试">性格测试</h2>
+<p>部分公司会有这个环节。主要内容就是性格测试，没见过被刷的，除非你真的反社会人格。有时候有算术题，图形题，IQ题的类型，时间紧迫，你也来不及网上找答案，准备好草稿纸好好算就是了。反正我就没在限定时间内做完过。</p>
+<h2 id="在线笔试">在线笔试</h2>
+<p>在线笔试会通过邮件发送到你留的邮箱中，所以说要主要查收邮件嘛。在线笔试一般需要开启摄像头，还是独立完成啦，也不难。</p>
+<p>专业知识题目一般就是选择题，单选，多选，简答题，都是限时的，这里的时间都很充足。</p>
+<p>程序设计题目一般就是程序设计课程的期末考试题的水平了，也有可能有一题有校内ACM的水平。一般是限时两小时，三道编程题。一般来说准备一下就没问题了，会给一天或两天的时间自由找两个小时去完成。</p>
+<p>这里打一个广告：<a href="http://www.nowcoder.com/">牛客网在线笔试练习</a></p>
+<h2 id="面试招聘">面试招聘</h2>
+<p>简单点来描述着就是一个装逼的过程，但是要优雅。</p>
+<p><strong>面试前的准备</strong></p>
+<p>基础算法知识要过关，包括但不限于：排序算法，图论算法，搜索算法。</p>
+<p>23种算法模式要了解，背熟常见的。推荐地址：<a href="http://www.cnblogs.com/beijiguangyong/archive/2010/11/15/2302807.html">这里</a></p>
+<p>对于自己的面试经历是要最最最熟悉的，重要到里面的任何一个流程都希望能清楚，哪怕不是自己写的代码，对于自己做的部分，精细了解到任何一个细节。</p>
+<p><strong>面试的着装</strong></p>
+<p>程序员的面试嘛，真心不用穿正装。总而言之就是大方得体，男生穿休闲衬衫T恤都行，但需要长裤；女生穿裙子休闲装都行。反正就是一般程序员在公司的办公室穿什么，自己穿什么去面试就ok了。（除去一些人高级猥琐的工作环境着装）</p>
+<p><strong>面试所带的东西</strong></p>
+<p>建议带一个文件袋，里面装一些奖状证书和简历，简历建议中英文都准备，各准备五份以上，彩色打印，不要吝啬这点打印费。奖状证书不一定会有需要拿出来，但是拿在手上能增加信心也会大方得体，比起从书包直接拿一张带皱褶的简历出来要好。</p>
+<p>可以带一个书包装自己的东西，女生还是花一下妆吧，男生留一个清爽的短发剃了胡子精神点就好了。</p>
+<p><strong>面试技巧</strong></p>
+<ol style="list-style-type: decimal">
+<li>不要随便问别人被问了什么，知道了也没什么用，临时复习最笨了，打乱大脑准备的内容。</li>
+<li>手拿着文件袋走过去，步伐从容，将书包放在椅子边上，坐在椅子上不要碰到靠背，挺直腰杆，直接拿出简历以易于面试官阅读的方向双手递给面试官。</li>
+<li>如果递完简历后对话还没开始，那就主动点自己做一个简短的自我介绍，语速不用快。</li>
+</ol>
+<p><strong>面试流程</strong></p>
+<p>第一轮面试一般会问技术问题，根据自己的准备从容地回答就好了，技巧就是慢慢说，回答的时间要比问问题的时间要长。遇到真的不会的问题，可以回答不太清楚，但是要通过自己的经验做一个推断答案，就是回答“我觉得它是这样实现的...”，然后说具体要去验证一下。这里主要就是对于面试官扔过来的问题，回答出来，答到点子上就好了。</p>
+<p>第二轮面试一般会问项目经历，这里就需要技巧了。面试官一般会问，“谈谈你对这个项目的理解”，“这个项目实际是做什么”。这里就可以谈你说准备的内容了，重点说一下你在这里遇到了什么问题，自己是怎么解决这个问题的，这点特别关键。里面可以谈一下用到的设计模式，用到的框架，这点对于公司来说也是很看重的。记住自己要在这里掌握主导权，多说一些话，让面试官觉得你对这个项目很了解，是自己做的，并在里面发挥了作用。</p>
+<p>重点，面试官问你想读研吗？回答：不想！！！这是重点，无论你自己怎么想。</p>
+<p>面试官到后面会问，你还有什么问题想问的吗？这里就有一个套路了，哪怕你已经了解了全部，但是你还是可以问，“转正的流程是怎样的？”，“我需要提前了解一些什么技术？”，不要直接不问，也不要问资薪太LOW了。这个世界充满了套路=。=</p>
+<p>最后，面试官可能会让你留下简历的，这就是为什么要多带几份简历的原因了。</p>
+<h2 id="正式offer">正式Offer</h2>
+<p>剩下的，等就好了。正式Offer下发，你回来点个赞呗。</p>
+<h3 id="后记">后记</h3>
+<p>我的简历和拿到的Offer和实习的公司就不在这里写了。简历我倒是有放在网上如果你找得到。拿到的Offers倒是有BAT其中之一的。实习的公司不是BAT，我有我的选择。后记都是废话，至于这篇博客的可信度是多少，见仁见智啦。</p>]]></description>
+    <pubDate>Sun, 22 Nov 2020 18:07:13 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[形式与政策]]></title>
+    <link>https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e5%bd%a2%e5%bc%8f%e4%b8%8e%e6%94%bf%e7%ad%96</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e5%bd%a2%e5%bc%8f%e4%b8%8e%e6%94%bf%e7%ad%96</guid>
+    <description><![CDATA[<h1 id="形式与政策">形式与政策</h1>
+<h2 id="大一的我">大一的我</h2>
+<p>大一的关键词是：<strong>新鲜</strong></p>
+<p>大一的时候，总想着高考结束了，就不用这么辛苦了，可以过着自由自在的生活。到后来，才发现，最令我后悔的就是大一的这一年，因为占的绩点比例实在是太高了，到后来的保研，真的是让我后悔莫及。假如能够重来，我一定好好学习。不过我也不是这么的糟糕的成绩，毕竟最后还是有3.8的绩点嘛。</p>
+<p>有一点特别让我生气的，就是英语的分班，我特别奇怪，我怎么会被分配到三级班，这给我英语之路带来了莫大的困难。还不能上诉，私以为我作为一个广东的学生，和一群偏远地区的学生在一个最低级的小班学习，我的心态也变了很多。当初就该强烈要求检查成绩的，作为一个懵懂的少年，我还是太天真的。</p>
+<p>大一的我有着对程序设计强烈的新鲜感，有着它，我在计算机领域的学习可谓是如鱼得水，在许多专业课里面都能拿到前十的成绩，很是欣慰。</p>
+<h2 id="大二的我">大二的我</h2>
+<p>大二的关键词是：<strong>充实</strong></p>
+<p>也开始有了想要谈恋爱的冲动。虽然在大二结束的时候，并没有开始一段爱情。但我也无悔，努力过，就足够了。大二，对自己的要求开始高涨了起来，起初的几页实验报告，最后都能写到40+页的实验报告，现在回想起来，我都开始佩服我自己。</p>
+<p>逐渐的，开始在课余时间也去捣鼓一些计算机的技术。自己写过一些有趣的小程序，发发朋友圈，自娱自乐，虽然在社会上的大神看来真的很简陋，但是这个就是契机，也是如此，更加增进了我对计算机的热爱。同时 ，开通了自己的博客，对于学到的东西，都会记录成博客，供别人看，也是对自己的一个经历记录吧。我很庆幸，学到这么多东西。</p>
+<h2 id="大三的我">大三的我</h2>
+<p>大三的关键词是：<strong>迷茫</strong></p>
+<p>步入大三，开始思考未来的去向。当然，也有很多的迷茫。</p>
+<p>作为一个大三的学生，下学期只有一门课，怎么说呢，并不觉得安逸，更多的是无聊。</p>
+<p>面对工作还是读研的两个选择，这很困难，因为一旦做出选择，它就决定了你未来的一个时期的样貌。如果选择工作，我需要尽快找个实习，更好地接触真正工作的样子；如果选择读研，我不得不尽快发一篇paper以便更好的保研。对我来说，对过去两年感到遗憾，遗憾没有更努力，遗憾过度放松麻痹了我的大脑。最终，导致了如此的面对烦恼。无论做出什么选择，未来都将是困难的。</p>
+<p>然而，生活总得继续，无论遇到什么困难。我思考过两个利弊，最终还是按照自己所想的样子，把生活继续。如果未来我的实力足够，希望能开一个自己的工作室，做一些自己喜欢干的事情。</p>
+<p>对未来的自己说一声加油。</p>
+<h2 id="大四的我">大四的我</h2>
+<p>大四的关键词是：<strong>转型</strong></p>
+<p>开始的大四的生活。决定了之后先工作。家庭遇到了不少的问题，不想给家庭增加太多的负担，无论如何，之后哪怕决定要读研，也想只用自己的钱来供自己完成学业。给爸妈说句，你们辛苦了。</p>
+<p>现在，一边实习，一边学习，也是获得了不少的乐趣。租了一个小房间，养了点自己喜欢的小植物，然后给家里寄点钱，心情会很好。没有研究生的学历，工作会受到一些猜疑，还好自己能力还过关，能够证明自己的实力，对过去的自己说声，辛苦了但勿忘初心。</p>
+<p>快要毕业了，加油，自己！</p>]]></description>
+    <pubDate>Sun, 22 Nov 2020 18:07:13 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[就业指导课]]></title>
+    <link>https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e5%b0%b1%e4%b8%9a%e6%8c%87%e5%af%bc%e8%af%be</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/p04.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2fp05.%e7%94%9f%e6%b4%bb%e9%9a%8f%e6%83%b3%2f%e5%b0%b1%e4%b8%9a%e6%8c%87%e5%af%bc%e8%af%be</guid>
+    <description><![CDATA[<h1 id="就业指导课">就业指导课</h1>
+<blockquote>
+<p>author: 韦政源</p>
+<p>studentId: 13354347</p>
+</blockquote>
+<p>我对自己的大学学习收获还是比较自信的，首先列举一下自己的拿到的实习Offer吧</p>
+<ul>
+<li>香港中文大学深圳研究院实习生</li>
+<li>华为科技有限公司实习生</li>
+<li>腾讯广州微信事业部实习生</li>
+<li>商汤科技有限公司实习生</li>
+</ul>
+<p>在我自己看来，这么多的实习Offer已然不容易，虽然没达到理想的微软和谷歌的Offer，但是且行且学习，再朝着理想前进吧</p>
+<p>关于找实习的经历，我总结出了一点经验，下面是正文</p>
+<h2 id="实习招聘流程">实习招聘流程</h2>
+<ul>
+<li>简历准备</li>
+<li>简历投递</li>
+<li>性格测试</li>
+<li>在线笔试</li>
+<li>招聘面试</li>
+<li>正式Offer</li>
+</ul>
+<h2 id="简历准备">简历准备</h2>
+<p><strong>简洁的排版</strong></p>
+<p>首先我个人是很推崇使用Latex制作的简历的，有以下几点优点： 1. 绝对的排版 2. 复制的文本不会出错 3. 文本可链接点击 4. 突显优秀的程序员特点</p>
+<p>第一点，排版对齐是很重要的，排版不对齐尤其难受，而且眼尖的HR特别容易发现，面试官倒不会太在意。排版的间距我推荐使用稍微大一点点，参考一下现代网页html5的风格都是排版间距比旧式网页要更大一些。还有注意要留页边距，不要为了拼命地填充一页简历而不断缩小页边距。</p>
+<p>第二点，文本复制，在Word生成的pdf中复制文本，然后粘贴，往往实际粘贴出来的效果不是你所想要的，不是多了就是少了。但是，使用Latex制作的简历倒不会出现这样的问题。HR有需要对筛选出来的简历整理统计为一份文件，才不会到处将这些简历一股脑地发给上级，如果可以复制谁愿意手敲，万一复制体验不好心情又不爽呢？</p>
+<p>第三点，文本可链接点击，如果简历上面有什么博客或个人主页的话，相比于只写链接地址，把文本也做成可点击的链接也是加分项。Word生成的pdf链接默认会变成蓝色下划线，尽管能改，但Latex原生的就不会。</p>
+<p>第四点，Latex也是有自己的语法的，多掌握一门语言并且成功在面试官面前秀一下，效果也是蛮好的。</p>
+<p><strong>重点的内容</strong></p>
+<p>一般来说，实习应该都是新人，不会有太多的内容，简历以一页来说为好，两页也是可以的，不必墨守成规。我个人认为，有什么大赛获奖经历，论文经历尽管堆上去到两页真的没所谓，但是最多到两页就好了。</p>
+<p>关于个人信息，必要点都是必填的无论好坏，非必要点记住只填对自己有利的信息点就好了。必要点指：姓名，学校，专业，学历，电话，邮箱。非必要点指：绩点，是否应届，英语水平，性别，博客地址，个人主页等。是否有利根据行业岗位自行判断。这里说一下邮箱，互联网是有行业鄙视链的，QQ邮箱那一串数字真不适合（投腾讯除外），尽管腾讯的邮箱服务做得也很好，好一点的做法是取一个邮箱名字并且使用foxmail域名，其实还是同一个邮箱。没必要非要使用相应公司的邮箱，海投的话每天去查真的会累死，错过了就尴尬了。</p>
+<p>上面也说到间隔增大，那么内容区就会变小，相应地内容区的内容就需要好好选择。不同的岗位投递不一样的简历才是王道。项目经历只填和岗位相关的就好，不然会给面试官一种广度足够，深度不足的错觉。这里我又要夸一下Latex了，不想要它显示的经历直接注释就可以了，真心方便。而且经历也要做一个排序，和岗位相关度最高的排最前。项目经历的描述用一两句很官方的语气描述，就是那种听不懂但觉得高大上的话，然后写自己负责的部分，使用了哪些技术和框架。</p>
+<p>这里打一个广告：<a href="https://www.overleaf.com/gallery/tagged/cv">Overleaf在线Latex模板</a></p>
+<h2 id="简历投递">简历投递</h2>
+<p>相比只投一家，还是多上一点保险比较好，喜欢合适就投一下，反正也不需要成本。至于后面是否继续参加笔试面试就可以到时候再决定了，至少不会后悔。</p>
+<p>关于内推，我觉得有资源有人脉尽量都优先内推通道，因为会比正常流程快，而且相当于多一次机会。尽管我觉得内推在国内已经变质了，推荐人就想赚钱并不在于被推荐人是谁，被推荐人也得千方百计找关系。但是，国内环境毕竟如此，逆来顺受。</p>
+<p>后续还是要注意通知的下发，有时候会有小概率发生通知漏发的情况，这时候就要主动联系HR了，及时补救，有一个一同投递简历的小伙伴是互相通知的好处。对于自己已经投递的公司，也要维护一个列表来记录，避免忘记。</p>
+<h2 id="性格测试">性格测试</h2>
+<p>部分公司会有这个环节。主要内容就是性格测试，没见过被刷的，除非你真的反社会人格。有时候有算术题，图形题，IQ题的类型，时间紧迫，你也来不及网上找答案，准备好草稿纸好好算就是了。反正我就没在限定时间内做完过。</p>
+<h2 id="在线笔试">在线笔试</h2>
+<p>在线笔试会通过邮件发送到你留的邮箱中，所以说要主要查收邮件嘛。在线笔试一般需要开启摄像头，还是独立完成啦，也不难。</p>
+<p>专业知识题目一般就是选择题，单选，多选，简答题，都是限时的，这里的时间都很充足。</p>
+<p>程序设计题目一般就是程序设计课程的期末考试题的水平了，也有可能有一题有校内ACM的水平。一般是限时两小时，三道编程题。一般来说准备一下就没问题了，会给一天或两天的时间自由找两个小时去完成。</p>
+<p>这里打一个广告：<a href="http://www.nowcoder.com/">牛客网在线笔试练习</a></p>
+<h2 id="面试招聘">面试招聘</h2>
+<p>简单点来描述着就是一个装逼的过程，但是要优雅。</p>
+<p><strong>面试前的准备</strong></p>
+<p>基础算法知识要过关，包括但不限于：排序算法，图论算法，搜索算法。</p>
+<p>23种算法模式要了解，背熟常见的。推荐地址：<a href="http://www.cnblogs.com/beijiguangyong/archive/2010/11/15/2302807.html">这里</a></p>
+<p>对于自己的面试经历是要最最最熟悉的，重要到里面的任何一个流程都希望能清楚，哪怕不是自己写的代码，对于自己做的部分，精细了解到任何一个细节。</p>
+<p><strong>面试的着装</strong></p>
+<p>程序员的面试嘛，真心不用穿正装。总而言之就是大方得体，男生穿休闲衬衫T恤都行，但需要长裤；女生穿裙子休闲装都行。反正就是一般程序员在公司的办公室穿什么，自己穿什么去面试就ok了。（除去一些人高级猥琐的工作环境着装）</p>
+<p><strong>面试所带的东西</strong></p>
+<p>建议带一个文件袋，里面装一些奖状证书和简历，简历建议中英文都准备，各准备五份以上，彩色打印，不要吝啬这点打印费。奖状证书不一定会有需要拿出来，但是拿在手上能增加信心也会大方得体，比起从书包直接拿一张带皱褶的简历出来要好。</p>
+<p>可以带一个书包装自己的东西，女生还是花一下妆吧，男生留一个清爽的短发剃了胡子精神点就好了。</p>
+<p><strong>面试技巧</strong></p>
+<ol style="list-style-type: decimal">
+<li>不要随便问别人被问了什么，知道了也没什么用，临时复习最笨了，打乱大脑准备的内容。</li>
+<li>手拿着文件袋走过去，步伐从容，将书包放在椅子边上，坐在椅子上不要碰到靠背，挺直腰杆，直接拿出简历以易于面试官阅读的方向双手递给面试官。</li>
+<li>如果递完简历后对话还没开始，那就主动点自己做一个简短的自我介绍，语速不用快。</li>
+</ol>
+<p><strong>面试流程</strong></p>
+<p>第一轮面试一般会问技术问题，根据自己的准备从容地回答就好了，技巧就是慢慢说，回答的时间要比问问题的时间要长。遇到真的不会的问题，可以回答不太清楚，但是要通过自己的经验做一个推断答案，就是回答“我觉得它是这样实现的...”，然后说具体要去验证一下。这里主要就是对于面试官扔过来的问题，回答出来，答到点子上就好了。</p>
+<p>第二轮面试一般会问项目经历，这里就需要技巧了。面试官一般会问，“谈谈你对这个项目的理解”，“这个项目实际是做什么”。这里就可以谈你说准备的内容了，重点说一下你在这里遇到了什么问题，自己是怎么解决这个问题的，这点特别关键。里面可以谈一下用到的设计模式，用到的框架，这点对于公司来说也是很看重的。记住自己要在这里掌握主导权，多说一些话，让面试官觉得你对这个项目很了解，是自己做的，并在里面发挥了作用。</p>
+<p>重点，面试官问你想读研吗？回答：不想！！！这是重点，无论你自己怎么想。</p>
+<p>面试官到后面会问，你还有什么问题想问的吗？这里就有一个套路了，哪怕你已经了解了全部，但是你还是可以问，“转正的流程是怎样的？”，“我需要提前了解一些什么技术？”，不要直接不问，也不要问资薪太LOW了。这个世界充满了套路=。=</p>
+<p>最后，面试官可能会让你留下简历的，这就是为什么要多带几份简历的原因了。</p>
+<h2 id="在公司的实习">在公司的实习</h2>
+<p>离开学校，走入社会，必然要面对心态的变化。失去了学校的呵护，面对的事情也比较多。</p>
+<p>在公司，我首先被分配到一个工作环境很不好的位置，整个环境都是昏暗的，上班要带着口罩，因为这个工作区是临时改建的，我认为这对身体很不好。<strong>遇到不合理的事情，应该要主动提出自己的意见</strong>，不要害怕上司会有异样的眼光，毕竟工作不愉快，生活也不会愉快的。至少我在实习的时候遇到了这样的问题，但是最后通过和部门的秘书和HR沟通，都很好地解决了这个问题。</p>
+<p>还有一点就算要<strong>和同事打成一片</strong>。之所以用这么不优雅的词，是因为它才能表达出我所想。和同事搞好关系，意味着，多些团体活动，只有这样，你的工作才会变得顺利，再厉害的人，还是会遇到问题的，互相帮助，问题会解决得更快，也更加使心情愉悦。</p>
+<p>最后一点，别忘了在公司，你和上司之间的地位是不对等的，政治无处不在，只有聪明人才能存活下来，多些观察，多些思考总是有益的。</p>]]></description>
+    <pubDate>Sun, 22 Nov 2020 18:07:13 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[路由器安装Openwrt && 科学上网]]></title>
+    <link>https://wsine.github.io/blog/#/p01.%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%2f%e8%b7%af%e7%94%b1%e5%99%a8%e5%ae%89%e8%a3%85Openwrt%e7%a7%91%e5%ad%a6%e4%b8%8a%e7%bd%91</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/p01.%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88%2f%e8%b7%af%e7%94%b1%e5%99%a8%e5%ae%89%e8%a3%85Openwrt%e7%a7%91%e5%ad%a6%e4%b8%8a%e7%bd%91</guid>
+    <description><![CDATA[<h1 id="路由器安装openwrt-科学上网">路由器安装Openwrt &amp;&amp; 科学上网</h1>
+<h2 id="前言">前言</h2>
+<p>对于给路由器刷系统，肯定是有风险的，敢于承担风险的才开始动手。</p>
+<p>Openwrt其实也是一款嵌入式Linux系统，对于闪存大小也是有一定的要求的，建议采用有前人尝试过的路由器。我使用的是和Openwrt比较搭的Netgear WNDR3800路由器，处理器和存储空间都有很大的折腾空间。</p>
+<h2 id="刷机过程">刷机过程</h2>
+<h3 id="路由器降级">路由器降级</h3>
+<p>有时候厂商会禁止用户刷第三方系统，在特定的版本开始添加过滤规则，识别刷机文件是否自家的系统。例如，Netgear在1.0.0.40版本开始禁止刷第三方系统。因此，可以采用降级的方式绕开。</p>
+<p>首先去厂商官网找路由器的低版本固件，下载。在Netgear的官网中找型号是WNDR3800，版本是1.0.0.16的固件，文件名<code>WNDR3800-V1.0.0.16.img</code>。</p>
+<p>连上路由器，进入路由器的管理页面，网址在路由器背面有贴纸说明，一般为192.168.1.1。找到系统-&gt;升级-&gt;从文件升级，点击选择文件找到刚刚下载的<code>WNDR3800-V1.0.0.16.img</code>,点击上传即可。</p>
+<h3 id="刷openwrt固件">刷Openwrt固件</h3>
+<p>在Openwrt的wiki页面中找到自己的设备型号，里面有下载链接，需要英文比较好，多次跳转。例如我找到的下载文件为：</p>
+<ul>
+<li>openwrt-15.05.1-ar71xx-generic-wndr3800-squashfs-sysupgrade.bin</li>
+<li>openwrt-15.05-ar71xx-generic-wndr3800-squashfs-factory.img</li>
+</ul>
+<p>bin文件是给Openwrt系统升级使用的，这里我们不需要使用。从厂商系统刷Openwrt，使用img文件即可。同样，连上路由器，进入路由器的管理页面，网址在路由器背面有贴纸说明，一般为192.168.1.1。找到系统-&gt;升级-&gt;从文件升级，点击选择文件找到刚刚下载的<code>openwrt-15.05-ar71xx-generic-wndr3800-squashfs-factory.img</code>,点击上传即可。</p>
+<p>然后，Openwrt系统就刷好了。管理页面的地址可能会变，不过也是长192.168.x.1的样子，多试一下就好了。</p>
+<p><strong>注意，ar71xx指的是处理器芯片型号。</strong>不是所有的设备都有Openwrt的官方支持，不过一般芯片型号相同也是能刷进去的，后续折腾机器装软件也是需要这个处理器芯片型号的。请自行搜索自己设备的对应型号。</p>
+<h3 id="刷机模式">刷机模式</h3>
+<p>如果厂商禁止刷第三方系统，原厂系统最低版本号也限制没办法降级，则可以使用刷机模式刷系统。和安卓手机的刷机模式类似，按住路由器背面的Reset按钮（需要用东西戳），再打开路由器开关，等待路由器指示灯从不断闪烁变成特定模式的常亮后，即可松手，路由器进入了刷机模式。</p>
+<p>连上路由器，使用路由器刷机软件（没找到官网就不贴链接了），使用相应的img文件，刷入即可。界面小白也能看懂。刷成功后断电重启即可。</p>
+<h2 id="科学上网">科学上网</h2>
+<h3 id="准备工作">准备工作</h3>
+<p>我使用的是Shadowsocks的方式，避免被查水表你不要问我是什么，你没有天线我没办法跟你解释。我就假设你知道了。</p>
+<p>首先准备下面的一些文件：</p>
+<ul>
+<li>shadowsocks-libev-spec_2.1.4-1_ar71xx.ipk</li>
+<li>ChinaDNS_1.3.1-1_ar71xx.ipk</li>
+<li>luci-app-shadowsocks-spec_1.3.0-1_all.ipk</li>
+<li>luci-app-chinadns_1.3.1-1_all.ipk</li>
+<li>accelerated-domains.china.conf</li>
+</ul>
+<p><strong>版本号什么的不重要，处理器芯片型号才重要。</strong>版本号能用就行，不行就多试试几个版本号，一般我都直接下最新版本的，在forget.net（TODO 网址有误）可以搜索下载。</p>
+<p><code>shadowsocks-libev-spec_2.1.4-1_ar71xx.ipk</code>是主程序文件，不解释。 <code>ChinaDNS_1.3.1-1_ar71xx.ipk</code>是解析DNS用的，避免国内网站访问过慢，对国内网站直接访问，对国外网站科学访问。 <code>luci-app-******_all.ipk</code>是给Openwrt的管理页面上增加网页端的配置界面用的，如果你喜欢一直用命令行配置可以不装这个 <code>accelerated-domains.china.conf</code>保存一些需要加速的域名的配置文件</p>
+<h3 id="开始动手">开始动手</h3>
+<p>在终端中将下载的文件上传的路由器中，使用scp大法。（不会的可以用U盘挂载，但这个太low我不教）</p>
+<p><code># scp local_file root@remote_ip:/tmp</code></p>
+<p>local_file指的就是刚刚下载的文件，remote_ip就是登陆管理页面的地址，统一上传的<code>/tmp</code>目录中即可，哪怕忘记它会自己帮你删除的。</p>
+<p>然后，ssh连接登陆路由器，并将这些包安装到路由器中，先装程序主体，再装luci开头的文件。</p>
+<pre><code># ssh root@remote_ip
+# cd /tmp
+# opkg install ******.ipk</code></pre>
+<p>装完回到路由器管理页面，找到服务（Service）就好了，剩下的图形化界面看着把内容填一下就好了。当然还有透明代理UDP转发DNS动态更新PAC模式匹配一大堆乱七八糟的你没有天线我没办法跟你解释。嗯，科学上网这里很水，免得查水表，逃了。。。</p>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[Jsp实现form的file和text传递(multipart/form-data)]]></title>
+    <link>https://wsine.github.io/blog/#/b15.%e7%a7%bb%e5%8a%a8Web%e7%bd%91%e9%a1%b5%e5%bc%80%e5%8f%91%2fJsp%e5%ae%9e%e7%8e%b0form%e7%9a%84file%e5%92%8ctext%e4%bc%a0%e9%80%92multipart_form%2ddata</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/b15.%e7%a7%bb%e5%8a%a8Web%e7%bd%91%e9%a1%b5%e5%bc%80%e5%8f%91%2fJsp%e5%ae%9e%e7%8e%b0form%e7%9a%84file%e5%92%8ctext%e4%bc%a0%e9%80%92multipart_form%2ddata</guid>
+    <description><![CDATA[<h1 id="jsp实现form的file和text传递multipartform-data">Jsp实现form的file和text传递(multipart/form-data)</h1>
+<p>首先是form部分，因为要有<code>&lt;input type=&quot;file&quot; /&gt;</code>的类型，所以需要添加<code>enctype=&quot;multipart/form-data&quot;</code>这一参数，实现大文件传递</p>
+<h4 id="表单部分">表单部分</h4>
+<pre><code>&lt;form action=&quot;addHomework.jsp&quot; method=&quot;post&quot; enctype = &quot;multipart/form-data&quot;&gt;
+    课程号： &lt;input type=&quot;text&quot; name=&quot;course_id&quot; value=&quot;&lt;%=course_id%&gt;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+    作业号： &lt;input type=&quot;text&quot; name=&quot;homework_id&quot; value=&quot;&lt;%=homework_id%&gt;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+    作业标题： &lt;input type=&quot;text&quot; name=&quot;homework_title&quot;
+        value=&quot;&lt;%=homework_title%&gt;&quot; /&gt;&lt;br /&gt;&lt;br /&gt; 
+    作业描述： &lt;input type=&quot;text&quot;
+        name=&quot;homework_description&quot; value=&quot;&lt;%=homework_description%&gt;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+    附件： &lt;input type=&quot;file&quot; name=&quot;detail_attach_file&quot;
+        value=&quot;&lt;%=detail_attach_file%&gt;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+    DDL： &lt;input
+        type=&quot;date&quot; name=&quot;ddl&quot; value=&quot;&lt;%=ddl%&gt;&quot;/&gt;&lt;br /&gt;&lt;br /&gt; 
+    &lt;input type=&quot;submit&quot;
+        value=&quot;发布&quot; name=&quot;postHomework&quot;&gt;&lt;br /&gt;&lt;br /&gt;
+    &lt;%=hintToUser%&gt;
+&lt;/form&gt;</code></pre>
+<h4 id="java部分">Java部分</h4>
+<pre><code>&lt;%@ page import=&quot;java.util.*&quot; %&gt;
+&lt;%@ page import=&quot;java.util.Date&quot; %&gt;
+&lt;%@ page import=&quot;java.text.SimpleDateFormat&quot; %&gt;
+&lt;%@ include file=&quot;MySQLHelper.jsp&quot;%&gt;
+&lt;%@ page import=&quot;org.apache.commons.fileupload.FileItem&quot; %&gt;
+&lt;%@ page import=&quot;org.apache.commons.fileupload.disk.DiskFileItemFactory&quot; %&gt;
+&lt;%@ page import=&quot;org.apache.commons.fileupload.FileUploadException&quot; %&gt;
+&lt;%@ page import=&quot;org.apache.commons.fileupload.servlet.ServletFileUpload&quot; %&gt;
+
+&lt;%
+    String method = request.getMethod();
+    String course_id = &quot;&quot;;
+    String homework_id = &quot;&quot;;
+    String homework_title = &quot;&quot;;
+    String homework_description = &quot;&quot;;
+    String detail_attach_file = &quot;&quot;;
+    String post_date = &quot;&quot;;
+    String ddl = &quot;&quot;;
+    String hintToUser = &quot;&quot;;
+    if (method.equals(&quot;POST&quot;)) {
+        DiskFileItemFactory diskFileItemFactory = new DiskFileItemFactory();
+        ServletFileUpload servletFileUpload = new ServletFileUpload(diskFileItemFactory);
+        try {
+            List list = servletFileUpload.parseRequest(request);
+            Iterator iterator = list.iterator();
+            while (iterator.hasNext()) {
+                FileItem item = (FileItem)iterator.next();
+                if (item.isFormField()) { // judge if it is not the file field
+                    String name = item.getFieldName(); // get the form&#39;s child name
+                    if (name.equals(&quot;course_id&quot;)) 
+                        course_id = item.getString(&quot;utf-8&quot;);
+                    else if (name.equals(&quot;homework_id&quot;)) 
+                        homework_id = item.getString(&quot;utf-8&quot;);
+                    else if (name.equals(&quot;homework_title&quot;))
+                        homework_title = item.getString(&quot;utf-8&quot;);
+                    else if (name.equals(&quot;homework_description&quot;))
+                        homework_description = item.getString(&quot;utf-8&quot;);
+                    else if (name.equals(&quot;ddl&quot;))
+                        ddl = item.getString(&quot;utf-8&quot;);
+                } else { // else it is the file field
+                    String fName = item.getName();  // get the file name
+                    int i = fName.lastIndexOf(&quot;\\&quot;);// fix the bug in ie
+                    fName = fName.substring(i + 1, fName.length());
+                    String filepath = request.getRealPath(&quot;/&quot;) + &quot;detail_attach&quot;;
+                    File path = new File(filepath);
+                    if (!path.isDirectory()) {
+                        path.mkdir();
+                    }
+                    detail_attach_file = path + &quot;/&quot; + fName;
+                    try {
+                        if (fName != &quot;&quot;) {
+                            item.write(new File(detail_attach_file));
+                        }
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        } catch (FileUploadException e) {
+            e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        // do whatever you want below
+        SimpleDateFormat df = new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;);
+        post_date = df.format(new Date());
+        MySQLHelper.HomeworkPost homeworkPost = new MySQLHelper.HomeworkPost(course_id, homework_id,
+                homework_title, homework_description, detail_attach_file, post_date, ddl);
+        if(MySQLHelper.addHomework(homeworkPost)) {
+            hintToUser = &quot;成功发布作业&quot;;
+        }
+    }
+%&gt;</code></pre>
+<p>至此，完毕</p>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[HTML/CSS的学习过程一览]]></title>
+    <link>https://wsine.github.io/blog/#/b15.%e7%a7%bb%e5%8a%a8Web%e7%bd%91%e9%a1%b5%e5%bc%80%e5%8f%91%2fHTML%2bCSS%e7%9a%84%e5%ad%a6%e4%b9%a0%e8%bf%87%e7%a8%8b%e4%b8%80%e8%a7%88</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/b15.%e7%a7%bb%e5%8a%a8Web%e7%bd%91%e9%a1%b5%e5%bc%80%e5%8f%91%2fHTML%2bCSS%e7%9a%84%e5%ad%a6%e4%b9%a0%e8%bf%87%e7%a8%8b%e4%b8%80%e8%a7%88</guid>
+    <description><![CDATA[<h1 id="htmlcss的学习过程一览">HTML/CSS的学习过程一览</h1>
+<p><strong>说明</strong> 1. 调试工具使用的是Google Chrome浏览器，其余浏览器出现的问题，这锅我不背<em>【傲娇脸</em> 2. 可以使用浏览器查看源代码</p>
+<h2 id="网页列表">网页列表</h2>
+<ul>
+<li>HTML_CSS_1
+<ul>
+<li>HTML基本元素使用
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_1/Step4.html">Step4.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_2
+<ul>
+<li>框架
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_2/frame.html">frame.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_2/iframe.html">iframe.html</a></li>
+</ul></li>
+<li>输入元素
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_2/blog2.html">blog2.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_3
+<ul>
+<li>CSS选择器的使用一
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_3/song1.html">song1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_3/song2.html">song2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_3/song3.html">song3.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_3/song4.html">song4.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_4
+<ul>
+<li>CSS选择器的使用二
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/sohu.html">sohu.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/register.html">register.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/sohu1.html">sohu1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/ZhuZiQing.html">ZhuZiQing.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/LotusPond.html">LotusPond.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/calendar.html">calendar.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_4/chess.html">chess.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_5
+<ul>
+<li>文本格式化和盒模型一
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_5/colorRGB.html">colorRGB.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_5/colorHSL.html">colorHSL.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_5/font.html">font.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_5/paragraph.html">paragraph.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_5/white-space.html">white-space.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/box.html">box.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_6
+<ul>
+<li>文本格式化和盒模型二
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/display.html">display.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/display1.html">display1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/display2.html">display2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/hide1.html">hide1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/hide2.html">hide2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/background.html">background.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/background1.html">background1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/background2.html">background2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/box.html">box.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/overflow.html">overflow.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/position1.html">position1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/position2.html">position2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_6/relative.html">relative.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_7
+<ul>
+<li>布局设计
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/layout1.html">layout1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/layout2.html">layout2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/display.html">layout3.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/gushici.html">gushici.html</a></li>
+</ul></li>
+</ul></li>
+<li>HTML_CSS_8
+<ul>
+<li>通用的布局设计
+<ul>
+<li>css
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/css/header.css">header.css</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/nav.css">nav.css</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_7/subnav.css">subnav.css</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/css/main.css">main.css</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/css/body.css">body.css</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/css/footer.css">footer.css</a></li>
+</ul></li>
+<li>js
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/custom.js">custom.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/display.js">display.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/ga.js">ga.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/info.js">info.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/jquery.js">jquery.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/jquery_002.js">jquery_002.js</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/js/main.js">main.js</a></li>
+</ul></li>
+<li>html
+<ul>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu0.html">sysu0.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu1.html">sysu1.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu2.html">sysu2.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu3.html">sysu3.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu4.html">sysu4.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu5.html">sysu5.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu6.html">sysu6.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu7.html">sysu7.html</a></li>
+<li><a href="http://mywsine.sinaapp.com/HTML_CSS_LEARNING/HTML_CSS_8/sysu8.html">sysu8.html</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="后记">后记</h2>
+<p>吐槽模式：这里其实就是八周的作业，眼明的你会发现代码量在进行不定量的提升当中，第一周上课发现这门课好水，内心都快乐坏了，想着选到了一门好课，第二周发现咦，好像还能接受.....................................第八周发现，卧槽（这不是脏话），这都是些什么鬼（╯－＿－）╯╧╧</p>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[Labview实现单边带信号调制（SSB）[移相法]]]></title>
+    <link>https://wsine.github.io/blog/#/b09.%e9%80%9a%e4%bf%a1%e5%8e%9f%e7%90%86%2fLabview%e5%ae%9e%e7%8e%b0%e5%8d%95%e8%be%b9%e5%b8%a6%e4%bf%a1%e5%8f%b7%e8%b0%83%e5%88%b6SSB_%e7%a7%bb%e7%9b%b8%e6%b3%95</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/b09.%e9%80%9a%e4%bf%a1%e5%8e%9f%e7%90%86%2fLabview%e5%ae%9e%e7%8e%b0%e5%8d%95%e8%be%b9%e5%b8%a6%e4%bf%a1%e5%8f%b7%e8%b0%83%e5%88%b6SSB_%e7%a7%bb%e7%9b%b8%e6%b3%95</guid>
+    <description><![CDATA[<h1 id="labview实现单边带信号调制ssb移相法">Labview实现单边带信号调制（SSB）[移相法]</h1>
+<p>时域上的表达式为</p>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image52.png" alt="1" />
+<p class="caption">1</p>
+</div>
+<p>调制器模型为</p>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image53.png" alt="2" />
+<p class="caption">2</p>
+</div>
+<p>这个实验中需要相位偏移比较多，因为一共用了四个信号仿真器，一个是无偏移的调制信号，一个是偏移的调制信号，一个是无偏移的载波信号，一个是偏移的载波信号。然后根据调制器模型进行相应的操作。 最后的输出为载波信号的时域图像，结果信号的单边带调制下边带的频域图像，结果信号的单边带调制的上边带的频域图像。</p>
+<h3 id="实现效果">实现效果</h3>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image54.png" alt="3" />
+<p class="caption">3</p>
+</div>
+<p>载波频率为280的大小，以280为中界的原正弦信号为两个双峰，经过了移相法得到两个单峰。</p>
+<h3 id="后端实现">后端实现</h3>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image55.jpg" alt="4" />
+<p class="caption">4</p>
+</div>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[Labview实现单边带信号调制（SSB）[滤波法]]]></title>
+    <link>https://wsine.github.io/blog/#/b09.%e9%80%9a%e4%bf%a1%e5%8e%9f%e7%90%86%2fLabview%e5%ae%9e%e7%8e%b0%e5%8d%95%e8%be%b9%e5%b8%a6%e4%bf%a1%e5%8f%b7%e8%b0%83%e5%88%b6SSB_%e6%bb%a4%e6%b3%a2%e6%b3%95</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/b09.%e9%80%9a%e4%bf%a1%e5%8e%9f%e7%90%86%2fLabview%e5%ae%9e%e7%8e%b0%e5%8d%95%e8%be%b9%e5%b8%a6%e4%bf%a1%e5%8f%b7%e8%b0%83%e5%88%b6SSB_%e6%bb%a4%e6%b3%a2%e6%b3%95</guid>
+    <description><![CDATA[<h1 id="labview实现单边带信号调制ssb滤波法">Labview实现单边带信号调制（SSB）[滤波法]</h1>
+<p>首先用信号仿真器得到一个被调制信号m(t)，以及载波信号，该实验选择正弦信号作为载波信号。 根据调制器模型</p>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image49.png" alt="1" />
+<p class="caption">1</p>
+</div>
+<p>得到一个结果信号。 其中，H(w)的选择是低通滤波器，实验中得到的是理想的低通滤波器，阶数为10。 输出结果为载波信号的时域图像、调制信号的频域图像和结果信号的频域图像。</p>
+<h3 id="实现效果">实现效果</h3>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image50.png" alt="2" />
+<p class="caption">2</p>
+</div>
+<p>载波频率对原信号的调制作用使得双峰频率偏移的载波频率大小的位置。经过低通滤波器的作用后，剩下小于截止频率的部分</p>
+<h3 id="后端实现">后端实现</h3>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image51.png" alt="3" />
+<p class="caption">3</p>
+</div>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+   
+  <item>
+    <title><![CDATA[语音识别之梅尔频谱倒数MFCC（Mel Frequency Cepstrum Coefficient）]]></title>
+    <link>https://wsine.github.io/blog/#/b08.%e6%95%b0%e5%ad%97%e4%bf%a1%e5%8f%b7%e5%a4%84%e7%90%86%2f%e8%af%ad%e9%9f%b3%e8%af%86%e5%88%ab%e4%b9%8b%e6%a2%85%e5%b0%94%e9%a2%91%e8%b0%b1%e5%80%92%e6%95%b0MFCC%7bMel_Frequency_Cepstrum_Coefficient%7d</link>
+    <guid isPermaLink="false">https://wsine.github.io/blog/#/b08.%e6%95%b0%e5%ad%97%e4%bf%a1%e5%8f%b7%e5%a4%84%e7%90%86%2f%e8%af%ad%e9%9f%b3%e8%af%86%e5%88%ab%e4%b9%8b%e6%a2%85%e5%b0%94%e9%a2%91%e8%b0%b1%e5%80%92%e6%95%b0MFCC%7bMel_Frequency_Cepstrum_Coefficient%7d</guid>
+    <description><![CDATA[<h1 id="语音识别之梅尔频谱倒数mfccmel-frequency-cepstrum-coefficient">语音识别之梅尔频谱倒数MFCC（Mel Frequency Cepstrum Coefficient）</h1>
+<h3 id="原理">原理</h3>
+<ol style="list-style-type: decimal">
+<li>梅尔频率倒谱系数：一定程度上模拟了人耳对语音的处理特点</li>
+<li>预加重：在语音信号中，高频部分的能量一般比较低，信号不利于处理，提高高频部分的能量能更好的处理</li>
+<li>分帧：在比较短的时间内，语音信号不会发生突变，利于处理</li>
+<li>加窗：帧内信号在后序FFT变换的时候不会出现端点突变的情况，较好地得到频谱</li>
+<li>补零：FFT的要求输入数据需要满足2^k个点</li>
+<li>计算能量谱：对语音信号最好的分析在其功率谱</li>
+<li>计算梅尔频谱：梅尔频谱体现人耳对语音的特点</li>
+<li>离散余弦变换：计算梅尔倒谱，易于观察</li>
+<li>归一化：易于纵观整个语音信号的特点</li>
+</ol>
+<h3 id="过程">过程</h3>
+<p>流程图： 从 人声的模拟信号 得到 MFCC的梅尔倒谱 <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image35.jpg" alt="流程图" /></p>
+<ul>
+<li>录音得到人声音频信号，保存到本地</li>
+</ul>
+<pre><code>%%
+% r = audiorecorder(16000, 16, 1);
+% record(r); % servel seconds
+% stop(r);
+% mySpeech = getaudiodata(r);
+% figure;plot(mySpeech);title(&#39;mySpeech&#39;);
+%%
+mySpeech = wavread(&#39;mySpeech.wav&#39;, &#39;native&#39;);
+figure;plot(mySpeech);title(&#39;mySpeech&#39;);
+SizeOfmySpeech = size(mySpeech, 1);
+for i = 2 : SizeOfmySpeech
+   mySpeech(i) = mySpeech(i) - 0.95 * mySpeech(i-1);
+end
+figure;plot(mySpeech);title(&#39;mySpeech_fix&#39;);</code></pre>
+<p>录音的要求是采用率为16000Hz，量化为16bit - 读取本地语音文件</p>
+<pre><code>ret_value temp;
+short waveData2[60000];
+
+int main()
+{
+    load_wave_file(&quot;mySpeech.wav&quot;, &amp;temp, waveData2);
+    return 0;
+}</code></pre>
+<p>总共有60000个采样点</p>
+<ul>
+<li>设置窗函数（海明窗、汉宁窗、布拉克曼窗）</li>
+</ul>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image36.jpg" alt="窗函数" />
+<p class="caption">窗函数</p>
+</div>
+<pre><code>void setHammingWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.54 - 0.46*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1));
+    }
+}
+
+void setHanningWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.5 - 0.5*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1));
+    }
+}
+
+void setBlackManWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.42 - 0.5*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1)) 
+                                    + 0.08*cos(4 * PI*i / (FRAMES_PER_BUFFER - 1));
+    }
+}</code></pre>
+<p>此次选取的是海明窗</p>
+<ul>
+<li>分帧加窗操作</li>
+</ul>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image37.jpg" alt="分帧" />
+<p class="caption">分帧</p>
+</div>
+<pre><code>// 加窗操作
+int seg_shift = (i - 1) * NOT_OVERLAP;
+for(j = 0; j &lt; FRAMES_PER_BUFFER &amp;&amp; (seg_shift + j) &lt; numSamples; j++){
+    afterWin[j] = spreemp[seg_shift + j] * frameWindow[j];
+}</code></pre>
+<p>每次分帧，数据点变为400个点</p>
+<ul>
+<li>补零操作</li>
+</ul>
+<pre><code>// 满足FFT为2^n个点，补零操作
+for(int k = j - 1; k &lt; LEN_SPECTRUM; k++){
+    afterWin[k] = 0;
+}</code></pre>
+<p>满足fft操作需要，补零至512个点</p>
+<ul>
+<li>计算能量谱</li>
+</ul>
+<pre><code>void FFT_Power(float* in, float* energySpectrum){
+    fftwf_complex* out = (fftwf_complex*)fftwf_malloc(sizeof(fftwf_complex)*LEN_SPECTRUM);
+    fftwf_plan p = fftwf_plan_dft_r2c_1d(LEN_SPECTRUM, in, out, FFTW_ESTIMATE);
+    fftwf_execute(p);
+    for(int i = 0; i &lt; LEN_SPECTRUM; i++){
+        energySpectrum[i] = out[i][0] * out[i][0] + out[i][1] * out[i][1];
+    }
+    fftwf_destroy_plan(p);
+    fftwf_free(out);
+}</code></pre>
+<p>这里用到了MIT大学的开源FFT变换库fftw3.h，快速计算能量谱(可以搜索下载根据自己的IDE配置)</p>
+<ul>
+<li>计算梅尔谱</li>
+</ul>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image38.jpg" alt="梅尔谱1" />
+<p class="caption">梅尔谱1</p>
+</div>
+<pre><code>void computeMel(float* mel, int sampleRate, const float* energySpectrum){
+    int fmax = sampleRate / 2;
+    float maxMelFreq = 1125 * log(1 + fmax / 700);</code></pre>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image39.jpg" alt="梅尔谱2" />
+<p class="caption">梅尔谱2</p>
+</div>
+<pre><code>// 计算频谱到梅尔谱的映射关系
+for(int i = 0; i &lt; NUM_FILTER + 2; i++){
+    m[i] = i*delta;
+    h[i] = 700 * (exp(m[i] / 1125) - 1);
+    f[i] = floor((256 + 1)*h[i] / sampleRate);
+}</code></pre>
+<div class="figure">
+<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image40.jpg" alt="梅尔谱3" />
+<p class="caption">梅尔谱3</p>
+</div>
+<pre><code>// 梅尔滤波
+for(int i = 0; i &lt; NUM_FILTER; i++){
+    for(int j = 0; j &lt; 256; j++){
+        if(j &gt;= melFilters[i][0] &amp;&amp; j &lt;= melFilters[i][1]){
+            mel[i] += ((j - melFilters[i][0]) / (melFilters[i][1] - melFilters[i][0]))*energySpectrum[j];
+        }
+        else if(j &gt; melFilters[i][1] &amp;&amp; j &lt;= melFilters[i][2]){
+            mel[i] += ((melFilters[i][2] - j) / (melFilters[i][2] - melFilters[i][1]))*energySpectrum[j];
+        }
+    }
+}</code></pre>
+<p>一共选择了40个三角滤波器，最后的梅尔谱也是40个点 - 计算梅尔倒谱 <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image41.jpg" alt="梅尔倒谱1" /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image42.jpg" alt="梅尔倒谱2" /></p>
+<pre><code>void DCT(const float* mel, float* melRec){
+    for(int i = 0; i &lt; LEN_MELREC; i++){
+        for(int j = 0; j &lt; NUM_FILTER; j++){
+            if(mel[j] &lt;= -0.0001 || mel[j] &gt;= 0.0001){
+                melRec[i] += log(mel[j])*cos(PI*i / (2 * NUM_FILTER)*(2 * j + 1));
+            }
+        }
+    }
+}</code></pre>
+<p>把40个点的梅尔谱映射到13维的倒谱上。取对数做离散余弦变换 - 归一化处理 <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image43.jpg" alt="归一化1" /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image44.jpg" alt="归一化2" /></p>
+<pre><code>// 归一化处理
+for(int i = 0; i &lt; LEN_MELREC; i++){
+    sumMelRec[i] = sqrt(sumMelRec[i] / numFrames);
+}
+fstream fout(&quot;All_MelRec.txt&quot;, ios::out);
+fstream fout2(&quot;All_MelRec_Bef.txt&quot;, ios::out);
+for(int i = 0; i &lt; numFrames; i++){
+    for(int j = 0; j &lt; LEN_MELREC; j++){
+        fout2 &lt;&lt; mulMelRec[i][j] &lt;&lt; &quot; &quot;;
+        mulMelRec[i][j] /= sumMelRec[j];
+        fout &lt;&lt; mulMelRec[i][j] &lt;&lt; &quot; &quot;;
+    }
+    fout &lt;&lt; endl;
+    fout2 &lt;&lt; endl;
+}</code></pre>
+<p>使得最终的结果数据聚拢，易于观察</p>
+<ul>
+<li>绘图输出结果（以原始数据为例，和最终结果为例）</li>
+</ul>
+<pre><code>%% 读取原始音频文件
+fidin = fopen(&#39;wavData.txt&#39;, &#39;r&#39;);
+len_waveData = fscanf(fidin, &#39;%d&#39;, 1);
+waveData = zeros(len_waveData, 1);
+for i = 1 : 1 : len_waveData
+   waveData(i) = fscanf(fidin, &#39;%d&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 1); plot(1:len_waveData, waveData);
+axis([0 400 -2 2]);
+title(&#39;原始音频文件&#39;);</code></pre>
+<pre><code>%% 梅尔倒谱的色域
+A = load(&#39;All_MelRec_Bef.txt&#39;);
+figure;
+imagesc(A&#39;); hold on
+colorbar;
+title(&#39;梅尔倒谱的色域&#39;);
+%% 梅尔倒谱的色域（归一化）
+B = load(&#39;All_MelRec.txt&#39;);
+figure;
+imagesc(B&#39;); hold on
+colorbar;
+title(&#39;梅尔倒谱的色域（归一化）&#39;);</code></pre>
+<p>其余输出操作是相同的，操作见最后的完整代码</p>
+<h3 id="结果">结果</h3>
+<p><strong>录音后的原始音频信号</strong> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image45.jpg" alt="原始音频" /> 总共有6000个采样点，量化为16bit，因此数据量级能达到10^4</p>
+<p><strong>MFCC操作中，第五帧的结果流程</strong> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image46.jpg" alt="流程" /></p>
+<p>原始音频分帧后，每一帧是400的点，从结果来看，在一帧的时间长度里面，数据变化不大，幅值维持在 [-1 1] 之间浮动。（如选取其他帧可以看到变化比较明显，看看原始音频就知道了） 加窗操作后，端点值被明显收敛到0，因此不会对能量谱的计算产生突变的情况。 能量谱和梅尔谱可以看出，与我们已知的人声特点相关。 <strong>归一化之前的梅尔倒谱</strong> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image47.jpg" alt="输出1" /> 高频能量集中在较低的维度，和能量谱的显示吻合 <strong>归一化的梅尔倒谱</strong> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image48.jpg" alt="输出2" /> 归一化之后，相比未归一化的图，较高维度的能量能够较好地被分辨出来，易于分析</p>
+<p>至此，梅尔倒谱工作完成。</p>
+<h3 id="完整代码">完整代码</h3>
+<p>matlab录音文件 main.m</p>
+<pre><code>clear all
+close all
+clc
+%%
+% r = audiorecorder(16000, 16, 1);
+% record(r); % servel seconds
+% stop(r);
+% mySpeech = getaudiodata(r);
+% figure;plot(mySpeech);title(&#39;mySpeech&#39;);
+%%
+mySpeech = wavread(&#39;mySpeech.wav&#39;, &#39;native&#39;);
+figure;plot(mySpeech);title(&#39;mySpeech&#39;);
+SizeOfmySpeech = size(mySpeech, 1);
+for i = 2 : SizeOfmySpeech
+   mySpeech(i) = mySpeech(i) - 0.95 * mySpeech(i-1);
+end
+figure;plot(mySpeech);title(&#39;mySpeech_fix&#39;);</code></pre>
+<p>C++主函数文件 main.cpp</p>
+<pre><code>#include&lt;iostream&gt;
+#include &quot;fftw3.h&quot;
+#include&quot;MFCC.h&quot;
+#include&quot;wav.h&quot;
+using namespace std;
+
+int wavLen;
+double waveData[60000];
+
+ret_value temp;
+short waveData2[60000];
+
+int main()
+{
+    /*wavLen = wavread(&quot;mySpeech.txt&quot;, waveData);
+    if(wavLen == -1)
+        exit(0);*/
+    load_wave_file(&quot;mySpeech.wav&quot;, &amp;temp, waveData2);
+    MFCC(waveData2, 60000, 16000);
+    system(&quot;pause&quot;);
+    return 0;
+}</code></pre>
+<p>C++音频定义头文件 wav.h ​</p>
+<pre><code>#ifndef _WAV_H
+#define _WAV_H
+
+#define MAXDATA (512*400)  //一般采样数据大小,语音文件的数据不能大于该数据
+#define SFREMQ (16000)   //采样数据的采样频率8khz
+#define NBIT 16
+
+typedef struct WaveStruck{//wav数据结构
+    //data head
+    struct HEAD{
+        char cRiffFlag[4];
+        int nFileLen;
+        char cWaveFlag[4];//WAV文件标志
+        char cFmtFlag[4];
+        int cTransition;
+        short nFormatTag;
+        short nChannels;
+        int nSamplesPerSec;//采样频率,mfcc为8khz
+        int nAvgBytesperSec;
+        short nBlockAlign;
+        short nBitNumPerSample;//样本数据位数，mfcc为12bit
+    } head;
+
+    //data block
+    struct BLOCK{
+        char cDataFlag[4];//数据标志符(data)
+        int nAudioLength;//采样数据总数
+    } block;
+} WAVE;
+
+int wavread(char* filename, double* destination);
+
+struct ret_value
+{
+    char *data;
+    unsigned long size;
+    ret_value()
+    {
+        data = 0;
+        size = 0;
+    }
+};
+
+void load_wave_file(char *fname, struct ret_value *ret, short* waveData2);
+
+#endif</code></pre>
+<p>C++音频实现文件 wav.cpp ​</p>
+<pre><code>#include&quot;wav.h&quot;
+#include&lt;cstdio&gt;
+#include&lt;cstring&gt;
+#include&lt;malloc.h&gt;
+
+int wavread(char* filename, double* destination){
+    WAVE wave[1];
+    FILE * f;
+    f = fopen(filename, &quot;rb&quot;);
+    if(!f)
+    {
+        printf(&quot;Cannot open %s for reading\n&quot;, filename);
+        return -1;
+    }
+
+    //读取wav文件头并且分析
+    fread(wave, 1, sizeof(wave), f);
+
+    if(wave[0].head.cWaveFlag[0] == &#39;W&#39;&amp;&amp;wave[0].head.cWaveFlag[1] == &#39;A&#39;
+        &amp;&amp;wave[0].head.cWaveFlag[2] == &#39;V&#39;&amp;&amp;wave[0].head.cWaveFlag[3] == &#39;E&#39;)//判断是否是wav文件
+    {
+        printf(&quot;It&#39;s not .wav file\n&quot;);
+        return -1;
+    }
+    if(wave[0].head.nSamplesPerSec != SFREMQ || wave[1].head.nBitNumPerSample != NBIT)//判断是否采样频率是16khz,16bit量化
+    {
+        printf(&quot;It&#39;s not 16khz and 16 bit\n&quot;);
+        return -1;
+    }
+
+    if(wave[0].block.nAudioLength&gt;MAXDATA / 2)//wav文件不能太大,为sample长度的一半
+    {
+        printf(&quot;wav file is to long\n&quot;);
+        return -1;
+    }
+
+    //读取采样数据 
+    fread(destination, sizeof(char), wave[0].block.nAudioLength, f);
+    fclose(f);
+
+    return wave[0].block.nAudioLength;
+}
+
+void load_wave_file(char *fname, struct ret_value *ret, short* waveData2)
+{
+    FILE *fp;
+    fp = fopen(fname, &quot;rb&quot;);
+    if(fp)
+    {
+        char id[5];          // 5个字节存储空间存储&#39;RIFF&#39;和&#39;\0&#39;，这个是为方便利用strcmp
+        unsigned long size;  // 存储文件大小
+        short format_tag, channels, block_align, bits_per_sample;    // 16位数据
+        unsigned long format_length, sample_rate, avg_bytes_sec, data_size; // 32位数据
+        fread(id, sizeof(char), 4, fp); // 读取&#39;RIFF&#39;
+        id[4] = &#39;\0&#39;;
+
+        if(!strcmp(id, &quot;RIFF&quot;))
+        {
+            fread(&amp;size, sizeof(unsigned long), 1, fp); // 读取文件大小
+            fread(id, sizeof(char), 4, fp);         // 读取&#39;WAVE&#39;
+            id[4] = &#39;\0&#39;;
+            if(!strcmp(id, &quot;WAVE&quot;))
+            {
+                fread(id, sizeof(char), 4, fp);     // 读取4字节 &quot;fmt &quot;;
+                fread(&amp;format_length, sizeof(unsigned long), 1, fp);
+                fread(&amp;format_tag, sizeof(short), 1, fp); // 读取文件tag
+                fread(&amp;channels, sizeof(short), 1, fp);    // 读取通道数目
+                fread(&amp;sample_rate, sizeof(unsigned long), 1, fp);   // 读取采样率大小
+                fread(&amp;avg_bytes_sec, sizeof(unsigned long), 1, fp); // 读取每秒数据量
+                fread(&amp;block_align, sizeof(short), 1, fp);     // 读取块对齐
+                fread(&amp;bits_per_sample, sizeof(short), 1, fp);       // 读取每一样本大小
+                fread(id, sizeof(char), 4, fp);                      // 读入&#39;data&#39;
+                fread(&amp;data_size, sizeof(unsigned long), 1, fp);     // 读取数据大小
+                ret-&gt;size = data_size;
+                ret-&gt;data = (char*)malloc(sizeof(char)*data_size); // 申请内存空间
+                //fread(ret-&gt;data, sizeof(char), data_size, fp);       // 读取数据
+                fread(waveData2, sizeof(short), data_size, fp); // my fix
+            }
+            else
+            {
+                printf(&quot;Error: RIFF file but not a wave file\n&quot;);
+            }
+        }
+        else
+        {
+            printf(&quot;Error: not a RIFF file\n&quot;);
+        }
+    }
+}</code></pre>
+<p>C++实现MFCC.h ​</p>
+<pre><code>#ifndef _MFCC_H
+#define _MFCC_H
+
+#define FRAMES_PER_BUFFER 400
+#define NOT_OVERLAP 200
+#define NUM_FILTER 40
+#define PI 3.1415926
+#define LEN_SPECTRUM 512
+#define LEN_MELREC 13
+
+void MFCC(const short* waveData, int numSamples, int sampleRate);
+void preEmphasizing(const short* waveData, float* spreemp, int numSamples, float heavyFactor);
+void setHammingWindow(float* frameWindow);
+void setHanningWindow(float* frameWindow);
+void setBlackManWindow(float* frameWindow);
+void FFT_Power(float* in, float* energySpectrum);
+void computeMel(float* mel, int sampleRate, const float* energySpectrum);
+void DCT(const float* mel, float* melRec);
+
+#endif</code></pre>
+<p>C++实现MFCC.cpp ​</p>
+<pre><code>#include&quot;MFCC.h&quot;
+#include&quot;fftw3.h&quot;
+#include&lt;cmath&gt;
+#include&lt;cstring&gt;
+#include&lt;fstream&gt;
+#include&lt;string&gt;
+using namespace std;
+
+template&lt;class T&gt; void print_Array(T* arr, int len, string filename);
+#define TORPINT true
+#define PRINT_FRAME 100
+
+float mulMelRec[500][LEN_MELREC];
+
+void MFCC(const short* waveData, int numSamples, int sampleRate){
+    if(TORPINT) print_Array(waveData, 60000, &quot;wavDataAll.txt&quot;);
+    // 预加重
+    float* spreemp = new float[numSamples];
+    preEmphasizing(waveData, spreemp, numSamples, -0.95);
+    if(TORPINT) print_Array(waveData, 60000, &quot;spreempAll.txt&quot;);
+    // 计算帧的数量
+    int numFrames = ceil((numSamples - FRAMES_PER_BUFFER) / NOT_OVERLAP) + 1;
+    // 申请内存
+    float* frameWindow = new float[FRAMES_PER_BUFFER];
+    float* afterWin = new float[LEN_SPECTRUM];
+    float* energySpectrum = new float[LEN_SPECTRUM];
+    float* mel = new float[NUM_FILTER];
+    float* melRec = new float[LEN_MELREC];
+    /*float** mulMelRec = new float*[numFrames + 200];
+    for(int i = 0; i &lt; numFrames; i++){
+        mulMelRec[i] = new float[LEN_MELREC];
+    }*/
+    float* sumMelRec = new float[LEN_MELREC];
+    memset(sumMelRec, 0, sizeof(float)*LEN_MELREC);
+    memset(mulMelRec, 0, sizeof(float)*numFrames*LEN_MELREC);
+    // 设置窗参数
+    setHammingWindow(frameWindow);
+    //setHanningWindow(frameWindow);
+    //setBlackManWindow(frameWindow);
+    // 帧操作
+    for(int i = 0; i &lt; numFrames; i++){
+        if(TORPINT &amp;&amp; i == PRINT_FRAME) print_Array(waveData, FRAMES_PER_BUFFER, &quot;wavData.txt&quot;);
+        if(TORPINT &amp;&amp; i == PRINT_FRAME) print_Array(waveData, FRAMES_PER_BUFFER, &quot;spreemp.txt&quot;);
+        int j;
+        // 加窗操作
+        int seg_shift = (i - 1) * NOT_OVERLAP;
+        for(j = 0; j &lt; FRAMES_PER_BUFFER &amp;&amp; (seg_shift + j) &lt; numSamples; j++){
+            afterWin[j] = spreemp[seg_shift + j] * frameWindow[j];
+        }
+        // 满足FFT为2^n个点，补零操作
+        for(int k = j - 1; k &lt; LEN_SPECTRUM; k++){
+            afterWin[k] = 0;
+        }
+        if(TORPINT &amp;&amp; i == PRINT_FRAME)
+            print_Array(afterWin, LEN_SPECTRUM, &quot;After.txt&quot;);
+        // 计算能量谱
+        FFT_Power(afterWin, energySpectrum);
+        if(TORPINT &amp;&amp; i == PRINT_FRAME)
+            print_Array(energySpectrum, LEN_SPECTRUM, &quot;energySpectrum.txt&quot;);
+        // 计算梅尔谱
+        memset(mel, 0, sizeof(float)*NUM_FILTER);
+        computeMel(mel, sampleRate, energySpectrum);
+        if(TORPINT &amp;&amp; i == PRINT_FRAME)
+            print_Array(mel, NUM_FILTER, &quot;mel.txt&quot;);
+        // 计算离散余弦变换
+        memset(melRec, 0, sizeof(float)*LEN_MELREC);
+        DCT(mel, melRec);
+        if(TORPINT &amp;&amp; i == PRINT_FRAME)
+            print_Array(melRec, LEN_MELREC, &quot;melRec.txt&quot;);
+        // 累计总值
+        for(int p = 0; p &lt; LEN_MELREC; p++){
+            mulMelRec[i][p] = melRec[p];
+            sumMelRec[p] += melRec[p] * melRec[p];
+        }
+    }
+    // 归一化处理
+    for(int i = 0; i &lt; LEN_MELREC; i++){
+        sumMelRec[i] = sqrt(sumMelRec[i] / numFrames);
+    }
+    fstream fout(&quot;All_MelRec.txt&quot;, ios::out);
+    fstream fout2(&quot;All_MelRec_Bef.txt&quot;, ios::out);
+    for(int i = 0; i &lt; numFrames; i++){
+        for(int j = 0; j &lt; LEN_MELREC; j++){
+            fout2 &lt;&lt; mulMelRec[i][j] &lt;&lt; &quot; &quot;;
+            mulMelRec[i][j] /= sumMelRec[j];
+            fout &lt;&lt; mulMelRec[i][j] &lt;&lt; &quot; &quot;;
+        }
+        fout &lt;&lt; endl;
+        fout2 &lt;&lt; endl;
+    }
+    fout.close();
+    fout2.close();
+
+    // 释放内存
+    delete[] spreemp;
+    delete[] frameWindow;
+    delete[] afterWin;
+    delete[] energySpectrum;
+    delete[] mel;
+    delete[] melRec;
+    delete[] sumMelRec;
+    /*for(int i = 0; i &lt; LEN_MELREC; i++){
+        delete[] mulMelRec[i];
+    }
+    delete[] mulMelRec;*/
+}
+
+void preEmphasizing(const short* waveData, float* spreemp, int numSamples, float heavyFactor){
+    spreemp[0] = (float)waveData[0];
+    for(int i = 1; i &lt; numSamples; i++){
+        spreemp[i] = waveData[i] + heavyFactor * waveData[i - 1];
+    }
+}
+
+void setHammingWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.54 - 0.46*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1));
+    }
+}
+
+void setHanningWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.5 - 0.5*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1));
+    }
+}
+
+void setBlackManWindow(float* frameWindow){
+    for(int i = 0; i &lt; FRAMES_PER_BUFFER; i++){
+        frameWindow[i] = 0.42 - 0.5*cos(2 * PI * i / (FRAMES_PER_BUFFER - 1)) 
+                                    + 0.08*cos(4 * PI*i / (FRAMES_PER_BUFFER - 1));
+    }
+}
+
+void FFT_Power(float* in, float* energySpectrum){
+    fftwf_complex* out = (fftwf_complex*)fftwf_malloc(sizeof(fftwf_complex)*LEN_SPECTRUM);
+    fftwf_plan p = fftwf_plan_dft_r2c_1d(LEN_SPECTRUM, in, out, FFTW_ESTIMATE);
+    fftwf_execute(p);
+    for(int i = 0; i &lt; LEN_SPECTRUM; i++){
+        energySpectrum[i] = out[i][0] * out[i][0] + out[i][1] * out[i][1];
+    }
+    fftwf_destroy_plan(p);
+    fftwf_free(out);
+}
+
+void computeMel(float* mel, int sampleRate, const float* energySpectrum){
+    int fmax = sampleRate / 2;
+    float maxMelFreq = 1125 * log(1 + fmax / 700);
+    int delta = (int)(maxMelFreq / (NUM_FILTER + 1));
+    // 申请空间
+    float** melFilters = new float*[NUM_FILTER];
+    for(int i = 0; i &lt; NUM_FILTER; i++){
+        melFilters[i] = new float[3];
+    }
+    float* m = new float[NUM_FILTER + 2];
+    float* h = new float[NUM_FILTER + 2];
+    float* f = new float[NUM_FILTER + 2];
+    // 计算频谱到梅尔谱的映射关系
+    for(int i = 0; i &lt; NUM_FILTER + 2; i++){
+        m[i] = i*delta;
+        h[i] = 700 * (exp(m[i] / 1125) - 1);
+        f[i] = floor((256 + 1)*h[i] / sampleRate);
+    }
+    // 计算梅尔滤波参数
+    for(int i = 0; i &lt; NUM_FILTER; i++){
+        for(int j = 0; j &lt; 3; j++){
+            melFilters[i][j] = f[i + j];
+        }
+    }
+    // 梅尔滤波
+    for(int i = 0; i &lt; NUM_FILTER; i++){
+        for(int j = 0; j &lt; 256; j++){
+            if(j &gt;= melFilters[i][0] &amp;&amp; j &lt;= melFilters[i][1]){
+                mel[i] += ((j - melFilters[i][0]) / (melFilters[i][1] - melFilters[i][0]))*energySpectrum[j];
+            }
+            else if(j &gt; melFilters[i][1] &amp;&amp; j &lt;= melFilters[i][2]){
+                mel[i] += ((melFilters[i][2] - j) / (melFilters[i][2] - melFilters[i][1]))*energySpectrum[j];
+            }
+        }
+    }
+    // 释放内存
+    for(int i = 0; i &lt; 3; i++){
+        delete[] melFilters[i];
+    }
+    delete[] melFilters;
+    delete[] m;
+    delete[] h;
+    delete[] f;
+}
+
+void DCT(const float* mel, float* melRec){
+    for(int i = 0; i &lt; LEN_MELREC; i++){
+        for(int j = 0; j &lt; NUM_FILTER; j++){
+            if(mel[j] &lt;= -0.0001 || mel[j] &gt;= 0.0001){
+                melRec[i] += log(mel[j])*cos(PI*i / (2 * NUM_FILTER)*(2 * j + 1));
+            }
+        }
+    }
+}
+
+template&lt;class T&gt; 
+void print_Array(T* arr, int len, string filename){
+    fstream fout(filename, ios::out);
+    fout &lt;&lt; len &lt;&lt; endl;
+    for(int i = 0; i &lt; len; i++){
+        fout &lt;&lt; arr[i] &lt;&lt; &quot; &quot;;
+    }
+    fout &lt;&lt; endl;
+    fout.close();
+    return;
+}</code></pre>
+<p>Matlab实现输出观察文件 Matlab_print.m ​</p>
+<pre><code>clear all
+close all
+clc
+%% 原始音频所有
+fidin = fopen(&#39;wavDataAll.txt&#39;, &#39;r&#39;);
+len_waveData = fscanf(fidin, &#39;%d&#39;, 1);
+waveData = zeros(len_waveData, 1);
+for i = 1 : 1 : len_waveData
+   waveData(i) = fscanf(fidin, &#39;%d&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 1); plot(1:len_waveData, waveData);
+title(&#39;原始音频文件&#39;);
+fidin = fopen(&#39;spreempAll.txt&#39;, &#39;r&#39;);
+len_spreemp = fscanf(fidin, &#39;%d&#39;, 1);
+spreemp = zeros(len_spreemp, 1);
+for i = 1 : 1 : len_spreemp
+   spreemp(i) = fscanf(fidin, &#39;%d&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 2); plot(1:len_spreemp, waveData);
+title(&#39;预加重音频文件&#39;);
+figure;
+%% 读取原始音频文件
+fidin = fopen(&#39;wavData.txt&#39;, &#39;r&#39;);
+len_waveData = fscanf(fidin, &#39;%d&#39;, 1);
+waveData = zeros(len_waveData, 1);
+for i = 1 : 1 : len_waveData
+   waveData(i) = fscanf(fidin, &#39;%d&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 1); plot(1:len_waveData, waveData);
+axis([0 400 -2 2]);
+title(&#39;原始音频文件&#39;);
+%% 读取预加重的音频
+fidin = fopen(&#39;spreemp.txt&#39;, &#39;r&#39;);
+len_spreemp = fscanf(fidin, &#39;%d&#39;, 1);
+spreemp = zeros(len_spreemp, 1);
+for i = 1 : 1 : len_spreemp
+   spreemp(i) = fscanf(fidin, &#39;%d&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 2); plot(1:len_spreemp, waveData);
+axis([0 400 -2 2]);
+title(&#39;预加重音频文件&#39;);
+%% 加窗操作
+fidin = fopen(&#39;After.txt&#39;, &#39;r&#39;);
+len_AfterWin = fscanf(fidin, &#39;%d&#39;, 1);
+AfterWin = zeros(len_AfterWin, 1);
+for i = 1 : 1 : len_AfterWin
+   AfterWin(i) = fscanf(fidin, &#39;%f&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 3); plot(1:len_AfterWin, AfterWin); grid on
+title(&#39;加窗操作&#39;);
+%% 能量谱
+fidin = fopen(&#39;energySpectrum.txt&#39;, &#39;r&#39;);
+len_energySpectrum = fscanf(fidin, &#39;%d&#39;, 1);
+energySpectrum = zeros(len_energySpectrum, 1);
+for i = 1 : 1 : len_energySpectrum
+   energySpectrum(i) = fscanf(fidin, &#39;%f&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 4); plot(1:len_energySpectrum, energySpectrum); grid on
+title(&#39;能量谱&#39;);
+%% 梅尔谱
+fidin = fopen(&#39;mel.txt&#39;, &#39;r&#39;);
+len_mel = fscanf(fidin, &#39;%d&#39;, 1);
+mel = zeros(len_mel, 1);
+for i = 1 : 1 : len_mel
+   mel(i) = fscanf(fidin, &#39;%f&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 5); plot(1:len_mel, mel); grid on
+title(&#39;梅尔谱&#39;);
+%% 梅尔倒谱
+fidin = fopen(&#39;melRec.txt&#39;, &#39;r&#39;);
+len_melRec = fscanf(fidin, &#39;%d&#39;, 1);
+melRec = zeros(len_melRec, 1);
+for i = 1 : 1 : len_melRec
+   melRec(i) = fscanf(fidin, &#39;%f&#39;, 1);
+end
+fclose(fidin);
+subplot(2, 3, 6); stem(1:len_melRec, melRec); grid on
+title(&#39;梅尔倒谱&#39;);
+%% 梅尔倒谱的色域
+A = load(&#39;All_MelRec_Bef.txt&#39;);
+figure;
+imagesc(A&#39;); hold on
+colorbar;
+title(&#39;梅尔倒谱的色域&#39;);
+%% 梅尔倒谱的色域（归一化）
+B = load(&#39;All_MelRec.txt&#39;);
+figure;
+imagesc(B&#39;); hold on
+colorbar;
+title(&#39;梅尔倒谱的色域（归一化）&#39;);</code></pre>]]></description>
+    <pubDate>Sat, 27 Jun 2020 17:53:55 +0800</pubDate>
+  </item>
+  
+</channel>
+</rss>
+
