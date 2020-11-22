@@ -1,6 +1,6 @@
 # Wsine's Blog
 
-[![Build Status](https://travis-ci.com/Wsine/blog.svg?branch=master)](https://travis-ci.com/Wsine/blog) [![RSS_icon](https://img.shields.io/badge/RSS-Atom-orange)](/blog/feed.xml ':ignore')
+[![Build Status](https://travis-ci.com/Wsine/cnblogs.svg?branch=master)](https://travis-ci.com/Wsine/cnblogs) [![RSS_icon](https://img.shields.io/badge/RSS-Atom-orange)](/cnblogs/feed.xml ':ignore')
 
 强烈建议安装Consolas字体，大大提高博客的浏览效果，相信你也会喜欢这款字体
 
