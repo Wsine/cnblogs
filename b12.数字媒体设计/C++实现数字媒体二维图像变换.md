@@ -152,12 +152,12 @@ C++实现了用glut画正方形，画三角形的功能。并附带放大缩小�
 
 ### 运行效果
 
-![F](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image226.png)
-![A](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image227.png)
-![B](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image228.png)
-![C](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image229.png)
-![D](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image230.png)
-![E](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image231.png)
+![F](/images/wsine-blog-image226.png)
+![A](/images/wsine-blog-image227.png)
+![B](/images/wsine-blog-image228.png)
+![C](/images/wsine-blog-image229.png)
+![D](/images/wsine-blog-image230.png)
+![E](/images/wsine-blog-image231.png)
 
 ### 完整代码
 

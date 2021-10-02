@@ -7,7 +7,7 @@ Complete a text searching engine using hash table.
 ----------
 ## 程序设计
 #### 程序流程图
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image5.png)
+![](/images/wsine-blog-image5.png)
 #### 程序代码
 ##### 程序变量
 
@@ -154,13 +154,13 @@ Complete a text searching engine using hash table.
 
 ----------
 #### 程序运行情况
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image6.png)
+![](/images/wsine-blog-image6.png)
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image7.png)
+![](/images/wsine-blog-image7.png)
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image8.png)
+![](/images/wsine-blog-image8.png)
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image9.png)
+![](/images/wsine-blog-image9.png)
 
 ----------
 #### 完整代码

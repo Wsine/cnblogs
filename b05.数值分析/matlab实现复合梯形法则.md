@@ -19,7 +19,7 @@ end
 ```
 
 例子：
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image18.png)
+![](/images/wsine-blog-image18.png)
 
 
 ```

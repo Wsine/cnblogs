@@ -346,15 +346,15 @@ lv.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
 
 初始化界面->点击添加->填入错误信息点击确定->填入正确信息
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image335.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image336.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image337.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image338.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image335.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image336.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image337.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image338.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 正确信息确定后主界面增加->点击张三进入修改->修改为正确内容->确定确定后更新
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image339.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image340.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image341.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image342.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image339.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image340.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image341.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image342.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 长按李四提示是否删除->点击确认删除后更新界面
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image343.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image344.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image343.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image344.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

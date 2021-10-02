@@ -251,7 +251,7 @@ arrays.xml
 
 由于是真机测试，因此给两个按钮加入了跳转响应，这些内容在后面的博客中再讲实现。
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image349.png" alt="cant show" style="display: inline-block; width: 40%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image350.png" alt="cant show" style="display: inline-block; width: 40%; " />
+<img src="/images/wsine-blog-image349.png" alt="cant show" style="display: inline-block; width: 40%; " /> <img src="/images/wsine-blog-image350.png" alt="cant show" style="display: inline-block; width: 40%; " />
 
 ### 一些总结
 

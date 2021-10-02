@@ -264,7 +264,7 @@ classifyResult:
  ['N', 'N', 'Y', 'N', 'Y', 'Y', 'N']
 ```
 
-![递归建树](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image383.jpg)
+![递归建树](/images/wsine-blog-image383.jpg)
 
 ## 附加文件
 

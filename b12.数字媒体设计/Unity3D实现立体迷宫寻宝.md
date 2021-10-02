@@ -4,8 +4,8 @@
 
 ### 游戏界面
 
-![123](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image232.png)
-![456](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image233.png)
+![123](/images/wsine-blog-image232.png)
+![456](/images/wsine-blog-image233.png)
 
 ### 控制代码
 

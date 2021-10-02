@@ -174,4 +174,4 @@ if __name__ == '__main__':
 cluster Numbers =  7
 finish all in 32.712135628590794
 ```
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image385.jpg)
+![](/images/wsine-blog-image385.jpg)

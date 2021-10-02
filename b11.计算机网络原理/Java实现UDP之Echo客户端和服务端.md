@@ -155,7 +155,7 @@ clean:
 
 ## 运行截图
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image217.png)
+![](/images/wsine-blog-image217.png)
 
 ## 问题解决方案
 

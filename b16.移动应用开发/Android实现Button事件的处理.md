@@ -139,8 +139,8 @@ View.OnClickListener ResetListener = new View.OnClickListener(){
 
 ### 效果图
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image310.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image311.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image312.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image313.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image314.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image315.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image316.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image310.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image311.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image312.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image313.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image314.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image315.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image316.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ### 一些总结
 

@@ -66,7 +66,7 @@ send.setOnClickListener(new View.OnClickListener() {
 
 初始化界面->输入hello world2->点击注册弹出SEND按钮->点击SEND->Widget界面出现hello world2文字
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image306.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image307.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image308.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image309.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image306.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image307.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image308.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image309.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

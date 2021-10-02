@@ -2,8 +2,8 @@
 
 ----------
 ### 程序截图
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image3.png)
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image4.png)
+![](/images/wsine-blog-image3.png)
+![](/images/wsine-blog-image4.png)
 
 ### 关键代码
 ```

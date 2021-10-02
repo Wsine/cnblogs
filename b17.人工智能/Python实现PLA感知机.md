@@ -178,4 +178,4 @@ predictResult:
 finish all in 1.213873749436057
 ```
 
-![结果](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image390.jpg)
+![结果](/images/wsine-blog-image390.jpg)

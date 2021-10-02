@@ -132,11 +132,11 @@ public static Handler handler = new Handler() {
 
 初始化界面->点击Create界面->成功获取验证码界面->Create空白验证码界面->
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image317.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image318.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image319.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image320.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image317.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image318.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image319.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image320.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 中文测试->获取验证码超时界面
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image321.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image322.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image321.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image322.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

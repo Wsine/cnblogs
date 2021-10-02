@@ -7,17 +7,17 @@
 
 ### 实现效果
 
-![1](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image70.png)
+![1](/images/wsine-blog-image70.png)
 
-![2](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image71.png)
+![2](/images/wsine-blog-image71.png)
 
 PPM图像输出2
 
-![3](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image72.png)
+![3](/images/wsine-blog-image72.png)
 
 对比两个PPM图像，方波信号的相位发生了偏移，这部分就是正弦信号的幅值信息。
 从结果图中可以看出，信号恢复准确。
 
 ### 后端实现
 
-![4](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image73.png)
+![4](/images/wsine-blog-image73.png)

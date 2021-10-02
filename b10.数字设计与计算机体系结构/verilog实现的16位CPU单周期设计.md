@@ -3,64 +3,64 @@
 这个工程完成了16位CPU的单周期设计，模块化设计，包含对于关键指令的仿真与设计，有包含必要的分析说明。
 
 ### 单周期CPU结构图
-![SingalCycle](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image180.jpg)
+![SingalCycle](/images/wsine-blog-image180.jpg)
 
 
 ### 单周期CPU设计真值表与结构图
-![TrueTable](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image181.jpg)
+![TrueTable](/images/wsine-blog-image181.jpg)
 
 
 ### 该CPU用到的指令集,16位8个通用寄存器
-![register](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image182.png)
+![register](/images/wsine-blog-image182.png)
 
 
 ### 设计思路
 1. Instruction Memory：
 输入8位的PC指令，输出对应内存的16位指令
-![IF](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image183.png)
+![IF](/images/wsine-blog-image183.png)
 
 
 2. Control Unit
 输入16位的指令，根据真值表，输出对应结果
-![CU](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image184.png)
+![CU](/images/wsine-blog-image184.png)
 
 
 3. Register File
 输入三个地址和写入内容，写入信号，输出两个地址对应的内容
 由于单周期内不能一边读一边写，故有一个时钟信号，通过一级缓存，在下一个时钟信号来临时立即写入内存
-![RF](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image185.png)
+![RF](/images/wsine-blog-image185.png)
 
 
 4. ALU
 输入运算数和指令，输出运算结果以及标志位
 由于单周期内，标志位并不在当前周期而在下一周期使用，故增加时钟信号，通过一级缓存，在下一个周期时判断使用
-![ALU](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image186.png)
+![ALU](/images/wsine-blog-image186.png)
 
 
 5. Data Memory
 输入一个地址，写入内容和写入信号，输出读取内容
 由于单周期内不能一边读一边写，故有一个时钟信号，通过一级缓存，在下一个时钟信号来临时立即写入内存
-![DM](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image187.png)
+![DM](/images/wsine-blog-image187.png)
 
 
 6. PC-NextPC
 根据分支指令，跳转指令和标志位的组合逻辑，决定PC是+1还是到某目标位置
-![PC](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image188.png)
+![PC](/images/wsine-blog-image188.png)
 
 
 ### 实验结果
 **RTL图**
-![RTL](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image189.jpg)
+![RTL](/images/wsine-blog-image189.jpg)
 
 
 **Testbench内容**
-![tb](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image190.png)
+![tb](/images/wsine-blog-image190.png)
 
 
 在test中，通过每隔50个ns，时钟取反一次，CPU通过一次时钟的上升沿计算一个周期，通过输出用到的通用寄存器和用到的datamemory里面的变量来观察整个CPU的流程结果，测试CPU是否正确工作
 
 **Instruction Memory:**
-![IM2](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image191.png)
+![IM2](/images/wsine-blog-image191.png)
 
 
 指令0：gr1原本初始化时为0，把gr1加上一个立即数18，gr1为18（0012）
@@ -87,7 +87,7 @@
 指令21：因为ZF标志位为1，所以跳转到指令12，循环执行，如PC的值大于21，则出错
 
 **实验结果：**
-![result](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image192.jpg)
+![result](/images/wsine-blog-image192.jpg)
 
 
 结果分析：

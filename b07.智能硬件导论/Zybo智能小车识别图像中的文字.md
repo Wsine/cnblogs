@@ -54,9 +54,9 @@ op1 = {
 }
 
 op2 = {
-	#'Url': 'https://wsine.cn-gd.ufileos.com/image/wsine-blog-image32.jpg'
-	#'Url': 'https://wsine.cn-gd.ufileos.com/image/wsine-blog-image33.jpg'
-	'Url': 'https://wsine.cn-gd.ufileos.com/image/wsine-blog-image34.jpg'
+	#'Url': '/images/wsine-blog-image32.jpg'
+	#'Url': '/images/wsine-blog-image33.jpg'
+	'Url': '/images/wsine-blog-image34.jpg'
 }
 
 r = requests.get('http://api.projectoxford.ai/vision/v1/ocr',params=op1, timeout=15)

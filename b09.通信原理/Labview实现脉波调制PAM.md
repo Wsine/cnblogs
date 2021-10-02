@@ -11,14 +11,14 @@
 
 运行效果图
 
-![1](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image63.png)
+![1](/images/wsine-blog-image63.png)
 
 脉冲调制信号的频域
 
-![2](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image64.png)
+![2](/images/wsine-blog-image64.png)
 
 由于正弦信号的信息在方波信号中，观察其频谱可得，除了最低频的是正弦信号原本的频率，其余为方波信号在此频率上是增加，因此只有最低频是正弦信号的频率，使用低通滤波器则可以得到正弦信号的信息，从而恢复波形。
 
 ### 后端实现
 
-![3](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image65.png)
+![3](/images/wsine-blog-image65.png)

@@ -197,11 +197,11 @@ View.OnTouchListener clearTouchListener = new View.OnTouchListener() {
 
 初始界面->依次输入->短按清除->长按清除
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image355.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image356.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image357.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image358.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image355.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image356.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image357.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image358.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 空白呼叫->最长三行->输入电话号码->成功呼叫
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image359.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image360.jpg" alt="cant show" style="display: inline-block; width: 22%; " /><img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image361.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image362.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image359.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image360.jpg" alt="cant show" style="display: inline-block; width: 22%; " /><img src="/images/wsine-blog-image361.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image362.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

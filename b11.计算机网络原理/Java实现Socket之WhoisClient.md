@@ -72,7 +72,7 @@ public class WhoisClient {
 
 ## 运行截图
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image212.png)
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image213.png)
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image214.png)
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image215.png)
+![](/images/wsine-blog-image212.png)
+![](/images/wsine-blog-image213.png)
+![](/images/wsine-blog-image214.png)
+![](/images/wsine-blog-image215.png)

@@ -14,7 +14,7 @@
   <script>
     const sleep = ms => new Promise(r => setTimeout(r, ms));
     window.$docsify = {
-      repo: 'Wsine/blog',
+      repo: 'Wsine/cnblogs',
       loadSidebar: true,
       subMaxLevel: 2,
       alias: {
@@ -47,6 +47,9 @@
               lang = "cpp";
             }
             return this.origin.code.apply(this, arguments);
+          },
+          image: function(href, title) {
+            return `<img src="${href}" data-origin="${href}" alt="${title}">`
           }
         }
       },

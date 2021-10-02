@@ -2,14 +2,14 @@
 
 ----------
 ## 整体电路图
-![整体电路图](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image177.png)
+![整体电路图](/images/wsine-blog-image177.png)
 
 ## 实验状态图
-![实验状态图](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image178.png)
+![实验状态图](/images/wsine-blog-image178.png)
 Stop代表没有计时，Start代表开始计时，Inc代表计时器加1，Trap代表inc按钮按下去时候的消抖状态。
 
 ## 状态编码表
-![状态编码表](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image179.png)
+![状态编码表](/images/wsine-blog-image179.png)
 
 ## 实验设计思路
 - 时钟分频：用一个diver=49999来让count从0根据100MHz的内部时钟变化到diver让myclk取反一次，以达到myclk的频率为1KHz的时钟。

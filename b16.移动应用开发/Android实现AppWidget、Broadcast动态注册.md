@@ -106,7 +106,7 @@ send.setOnClickListener(new View.OnClickListener() {
 
 没注册时敲hello world并发送->界面没有内容出现->注册后发送->widget中出现hello world
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image302.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image303.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image304.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image305.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image302.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image303.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image304.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image305.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

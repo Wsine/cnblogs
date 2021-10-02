@@ -198,4 +198,4 @@ if __name__ == '__main__':
 Loss is 0.071316
 finish all in 7.221354361552228
 ```
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image389.jpg)
+![](/images/wsine-blog-image389.jpg)

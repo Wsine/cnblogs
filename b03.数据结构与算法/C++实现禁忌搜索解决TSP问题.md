@@ -2,7 +2,7 @@
 
 使用的搜索方法是Tabu Search（禁忌搜索）
 
-![frame](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image10.png)
+![frame](/images/wsine-blog-image10.png)
 
 ### 程序设计
 
@@ -104,7 +104,7 @@ double run_time = (double)(finish - start) / CLOCKS_PER_SEC;
 
 默认搜索代数为10000
 
-![TEST](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image11.png)
+![TEST](/images/wsine-blog-image11.png)
 
 修改搜索代数可以线性控制搜索时间，但是搜索效果也会相应地改变，自行斟酌
 

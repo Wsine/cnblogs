@@ -186,7 +186,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 初始状态->点击cherry->跳转页面->点击Back ->回到上一个界面->长按banana->删除条目
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image378.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image379.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image380.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image381.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image378.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image379.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image380.jpg" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image381.jpg" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 
@@ -213,7 +213,7 @@ protected void onCreate(Bundle savedInstanceState) {
 	当一个已经stop的活动需要重新显示在屏幕的时候，调用这个函数
 
 引用一张图来说明，图片来自水印：
-![feisky](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image382.png)
+![feisky](/images/wsine-blog-image382.png)
 
 **活动的启动模式有四种，standard,singleTop,singleTask以及singleInstance，列表说明不同的启动方式有什么不同**
 

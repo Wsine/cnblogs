@@ -124,7 +124,7 @@ protected void onPause() {
 
 ## 效果图
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image351.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image352.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image353.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image354.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image351.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image352.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image353.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image354.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 工程下载
 

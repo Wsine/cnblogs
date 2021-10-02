@@ -154,8 +154,8 @@ private Handler handler = new Handler() {
 
 初始化界面->输入错误或不完整手机号码->输入正确并查询->查询结果
 
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image372.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image373.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image374.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image375.png" alt="cant show" style="display: inline-block; width: 22%; " />
-<img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image376.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="https://wsine.cn-gd.ufileos.com/image/wsine-blog-image377.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image372.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image373.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image374.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image375.png" alt="cant show" style="display: inline-block; width: 22%; " />
+<img src="/images/wsine-blog-image376.png" alt="cant show" style="display: inline-block; width: 22%; " /> <img src="/images/wsine-blog-image377.png" alt="cant show" style="display: inline-block; width: 22%; " />
 
 ## 一些总结
 

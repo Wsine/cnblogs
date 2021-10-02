@@ -49,4 +49,4 @@ public class TimeClient {
 
 ## 运行截图
 
-![](https://wsine.cn-gd.ufileos.com/image/wsine-blog-image211.png)
+![](/images/wsine-blog-image211.png)
